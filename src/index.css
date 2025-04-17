@@ -1,0 +1,21 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f2f2f2;
+}
+
+.container {
+  text-align: center;
+}
+
+video {
+  width: 320px;
+  height: 240px;
+  background: black;
+  margin: 10px;
+}
+
+.box button {
+  margin: 5px;
+}
